@@ -1,0 +1,10 @@
+
+# Arquivos gerados pelo Maven
+/target/
+
+# Configuracoes da IDE
+.idea/
+*.iml
+
+# Arquivos temporarios
+*.log

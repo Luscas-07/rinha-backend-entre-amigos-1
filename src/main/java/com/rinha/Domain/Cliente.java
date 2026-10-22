@@ -1,4 +1,4 @@
-package com.rinha.dominio;
+package com.rinha.Domain;   
 
 public class Cliente {
 
